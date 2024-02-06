@@ -1,7 +1,7 @@
 Option Explicit
 
 ' Dim sParameters
-' sParameters = "C:\Users\DARM\AppData\Local\Temp\;2;True;True;C:\Users\DARM\Downloads\"
+' sParameters = "C:\Users\xxx\AppData\Local\Temp\;2;True;True;C:\Users\DARM\Downloads\"
 ' DeleteOldFilesAndFolders(sParameters) 
 
 Function DeleteOldFilesAndFolders (sParameters)
